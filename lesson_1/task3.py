@@ -1,0 +1,5 @@
+n = int(input('Введите число: '))
+nn = str(n) + str(n)
+nnn = str(n) + str(n) + str(n)
+sum = n + int(nn) + int(nnn)
+print(sum)
